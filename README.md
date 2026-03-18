@@ -15,7 +15,7 @@
 
 ### 🧠 About Me
 
-- 🔭 I’m currently working on **MyRemoteDesk - Complete Workspace Integrated Platform**
+- 🔭 I’m currently working as **Intern - Developer at Paexskin Solutions Pvt Ltd**
 - 🌱 Learning new things every day: **React.js, Electron.js**
 - 🤝 Open to collaborate on **Python and Full Stack Projects**
 - 📬 Reach me at: **yugantkoulgekar15@gmail.com**
